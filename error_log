@@ -1,0 +1,1 @@
+[27-Apr-2016 17:43:06 UTC] PHP Fatal error:  Cannot redeclare class M_portfolio in /home/harismawan/public_html/application/models/M_message.php on line 15
